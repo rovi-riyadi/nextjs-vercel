@@ -108,8 +108,8 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-        <a href="https://api.whatsapp.com/send?phone=+62859106782533&text=Halo+Arvi+Solusi+Nusantara%2C+saya+ingin+dibuatkan+aplikasi+untuk+keperluan+bisnis+saya." class="float" target="_blank">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+      <a href="https://api.whatsapp.com/send?phone=+62859106782533&text=Halo+Arvi+Solusi+Nusantara%2C+saya+ingin+dibuatkan+aplikasi+untuk+keperluan+bisnis+saya." class="float" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
       </a>
     </main>
