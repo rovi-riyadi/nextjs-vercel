@@ -4,15 +4,15 @@
 
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --background-start-rgb: 37, 150, 190; /*#34abfb;*/
+  --background-end-rgb: 152, 207, 227; /*#98cfe3*/
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --background-start-rgb: 37, 150, 190; /*#34abfb;*/
+    --background-end-rgb: 152, 207, 227; /*#98cfe3*/
   }
 }
 
@@ -43,4 +43,9 @@ body {
 
 .my-float{
 	margin-top:16px;
+}
+
+.paytone-one-regular {
+  font-family: "Paytone One", sans-serif;
+  letter-spacing: 0.1rem;
 }
